@@ -1,0 +1,51 @@
+*{
+	margin:0px;
+	font-family: Poppins,sans-serif;
+}
+html{
+	background-color: 
+}
+
+.paper{
+	max-width: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: grey;
+	min-height: 900px;	
+}
+.header{
+	display: inline-flex;
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 40px;
+	clear:both;
+}
+.fullname{
+	padding-left: 15px;
+	padding-top: 25px;
+	font-family: Poppins,sans-serif;
+}
+.colorwhite{
+	color: white;
+}
+.pad25{
+	padding-top: 22px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.details{
+	clear:both;
+	background-color: white;
+	padding: 5%;
+	min-height: 900px;
+	border: 1px solid black;
+	width: inherit;
+
+}
+.profilephoto{
+	max-width: 200px;
+	max-height: 200px;
+	border-radius: 200px;
+	padding: 0px;
+	border: 10px solid white;
+}
